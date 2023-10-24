@@ -1,5 +1,3 @@
-
-
 from chap2_t1 import interpolate
 import time
 import numpy as np
